@@ -9,3 +9,5 @@ master02(3)
 master03
 
 master05(master04、hotfix01)
+
+github01
